@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\2001215878_NguyenMinhKhoa\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+E:\LuuDuLieuSinhVien\2001215878_NguyenMinhKhoa\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\2001215878_NguyenMinhKhoa\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.MainForm.resources
+E:\LuuDuLieuSinhVien\2001215878_NguyenMinhKhoa\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\2001215878_NguyenMinhKhoa\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\2001215878_NguyenMinhKhoa\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+E:\LuuDuLieuSinhVien\2001215878_NguyenMinhKhoa\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+E:\LuuDuLieuSinhVien\2001215878_NguyenMinhKhoa\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+E:\LuuDuLieuSinhVien\2001215878_NguyenMinhKhoa\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
